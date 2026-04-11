@@ -1,0 +1,20 @@
+.text-icon-button span {
+    display: flex;
+    align-items: center;
+  }
+  
+  .text-icon-button .icon {
+    margin-right: 8px;
+  }
+  
+  .text-icon-button .rounded-button {
+    border-radius: 20px;
+  }
+
+  #btn {
+    border-radius: 10px;
+    height: 40px;
+    color: black;
+    margin-top: 30px;
+    margin-left: 5px;
+  }

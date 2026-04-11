@@ -1,0 +1,42 @@
+.article-text {
+    color: #000;
+    line-height: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    padding-bottom: 25px;
+}
+
+.article-text:first-letter {
+    float:left;
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 1;
+    height: 5rem;
+    text-transform: uppercase;
+}
+
+.newspaper-background {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    max-width: 1100px;
+  }  
+
+.cover-image-container {
+    max-width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .cover-image {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    object-fit: cover;
+  }
+
+#article-heading {
+    font-family: 'Times New Roman', Times, serif !important;
+    padding-top: 15px;
+}

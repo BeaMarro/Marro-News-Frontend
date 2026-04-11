@@ -1,0 +1,21 @@
+input[type="file"] {
+    display: none;
+}
+
+.file-button {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #28afb0;
+    color: white;
+    background-color: #28afb0;
+    transition-duration: 0.2s;
+}
+
+.file-button:hover {
+    background-color: white;
+    color: #4479b1;
+    transition-duration: 0.2s;
+}

@@ -1,0 +1,16 @@
+.individual-card {
+  color: black;
+  background-color: white;
+  border: 1px solid grey !important;
+  height: 475px !important;
+}
+
+.individual-card-heading {
+  font-size: 25px;
+}
+
+.individual-card-image {
+  object-fit: cover;
+  height: 250px;
+  width: 100%;
+}

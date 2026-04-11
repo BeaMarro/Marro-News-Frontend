@@ -1,0 +1,23 @@
+.approved-status {
+    background-color: #b1ffbd;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2px;
+    width: 120px;
+}
+
+.disapproved-status {
+    background-color: #ef928c;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2px;
+    width: 120px;
+}
+
+.pending-status {
+    background-color: #f9fba1;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2px;
+    width: 120px;
+}

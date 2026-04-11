@@ -1,0 +1,11 @@
+.access-denied-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-color: white;
+    border: 2.5px solid #19647eff;
+    border-radius: 20px;
+    margin-top: 35px;
+    text-align: center;
+}

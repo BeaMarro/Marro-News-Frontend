@@ -1,0 +1,32 @@
+* {
+  font-family: 'Gabarito', sans-serif;
+}
+
+body {
+  background-color: #EEE5E5;
+}
+
+/* CSS */
+
+#center {
+  text-align: center;
+}
+
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a:link {
+  text-decoration: none; /* Removes underline on hover */
+}
+
+a:visited {
+  text-decoration: none; /* Removes underline on visited */
+}
+
+::selection {
+  background-color: #1f2e49;
+  color: #ffffff;
+}

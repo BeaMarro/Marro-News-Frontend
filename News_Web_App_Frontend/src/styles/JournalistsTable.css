@@ -1,0 +1,12 @@
+.avatarContainer {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+  }
+  
+  .avatarImage {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  

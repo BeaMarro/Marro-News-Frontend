@@ -1,0 +1,13 @@
+.search-text {
+    width: 200px;
+    border-radius: 20px;
+    height: 45px;
+    border: 1px solid white !important;
+}
+
+.search-bar {
+    background-color: #19647e;
+    width: 250px;
+    border-radius: 20px;
+    margin-left: 80%;
+}

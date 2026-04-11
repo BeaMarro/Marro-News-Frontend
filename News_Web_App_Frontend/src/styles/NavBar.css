@@ -1,0 +1,39 @@
+.custom-navbar {
+    background-color: #19647e;
+    position: sticky;
+    top:  0;
+    z-index: 1000;
+    font-size: 17px;
+    height: 90px;
+}
+
+#nav-link {
+    transition-duration: 0.1s;
+    font-size: 22px;
+}
+
+#nav-link:hover {
+    background-color: #28AFB0;
+    color: black !important;
+    transition-duration: 0.1s;
+}
+
+#nav-dropdown-more {
+    color: white;
+}
+
+.mini-logo {
+    width: 75%;
+}
+
+.search-button {
+    background-color: transparent;
+    border-color: transparent;
+    transition-duration: 0.2s;
+    margin-right: 10px;
+}
+
+.search-button:hover {
+    background-color: #28AFB0;
+    transition-duration: 0.2s;
+}

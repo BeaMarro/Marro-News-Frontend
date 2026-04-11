@@ -1,0 +1,17 @@
+.select {
+    font-size: 15px;
+    height: 40px;
+    width:  500px;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+
+.custom-modal-width {
+    max-width: 1000px;
+  margin: auto;
+}
+
+.custom-modal-width-small {
+    max-width: 540px;
+  margin: auto;
+}
