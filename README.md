@@ -37,6 +37,31 @@ Marro News is a news web application built as an individual project for Semester
 
 ---
 
+## Screenshots
+
+### User Flow
+
+#### Homepage
+![Homepage](screenshots/homepage.jpg)
+
+#### Login Page
+![Login](screenshots/login.jpg)
+
+#### Articles Page
+![Articles](screenshots/articles.jpg)
+
+---
+
+### Journalist & Admin Flow
+
+#### Manage Articles (Journalist View)
+![Manage Articles](screenshots/manage_articles.jpg)
+
+#### Journalist Statistics (Admin View)
+![Journalist Stats](screenshots/journalist_stats.jpg)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
