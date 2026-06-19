@@ -67,7 +67,7 @@ Marro News is a news web application built as an individual project for Semester
 ### Prerequisites
 
 - Node.js (v18+)
-- The [Marro News Backend](../README.md) running locally
+- The [Marro News Backend](https://github.com/BeaMarro/Marro-News-Backend) running locally
 
 ### Install & run
 
